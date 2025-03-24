@@ -1,0 +1,5 @@
+venv/
+all_reviews.csv
+steam_games.csv
+top_rated_games.csv
+top_tags.csv
