@@ -62,7 +62,7 @@ Action and RPG genres are the most popular based on review counts.
 
 
 
-![Alt Text]("C:\Users\Admin\Desktop\assignment\powerbi.png")
+![Alt Text]("C:\Fythonn\fyt\Main\Project_7\images\powerbi.png")
 
 
 
