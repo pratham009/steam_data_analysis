@@ -1,3 +1,6 @@
+![Screenshot]("https://github.com/pratham009/steam_data_analysis/blob/main/images/powerbi.png?raw=true")
+
+
 ### Overview
 This project is a data analysis of the Steam Games dataset. The goal is to perform Exploratory Data Analysis (EDA) to uncover insights about the most popular games, their genres, and whether they are single-player or multiplayer. The analysis is done using Python libraries like Pandas, Matplotlib, and Seaborn.
 
@@ -59,11 +62,6 @@ Games like "Dota 2" and "Counter-Strike: Global Offensive" have the highest numb
 Most Popular Genres:
 
 Action and RPG genres are the most popular based on review counts.
-
-
-
-![Screenshot]("https://github.com/pratham009/steam_data_analysis/blob/main/images/powerbi.png?raw=true")
-
 
 
 ### Game Type Distribution:
