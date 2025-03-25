@@ -62,7 +62,7 @@ Action and RPG genres are the most popular based on review counts.
 
 
 
-![Screenshot]("https://github.com/pratham009/steam_data_analysis/blob/0dfc4cec0446ecefe9d26e32b56804d1a5f2d9f7/images/powerbi.png")
+![Screenshot]("https://github.com/pratham009/steam_data_analysis/blob/main/images/powerbi.png?raw=true")
 
 
 
