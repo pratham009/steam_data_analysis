@@ -60,6 +60,12 @@ Most Popular Genres:
 
 Action and RPG genres are the most popular based on review counts.
 
+
+
+![Alt Text]("C:\Users\Admin\Desktop\assignment\powerbi.png")
+
+
+
 ### Game Type Distribution:
 
 Multiplayer games tend to have more reviews compared to single-player games.
