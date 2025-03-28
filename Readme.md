@@ -1,4 +1,3 @@
-![Screenshot](https://raw.githubusercontent.com/pratham009/steam_data_analysis/main/images/powerbi.png)
 
 ### Overview
 This project is a data analysis of the Steam Games dataset. The goal is to perform Exploratory Data Analysis (EDA) to uncover insights about the most popular games, their genres, and whether they are single-player or multiplayer. The analysis is done using Python libraries like Pandas, Matplotlib, and Seaborn.
@@ -39,6 +38,8 @@ Remove duplicates.
 Convert data types (e.g., release_date to datetime).
 
 ### Data Analysis:
+![Screenshot](https://raw.githubusercontent.com/pratham009/steam_data_analysis/main/images/powerbi.png)
+
 
 Extract review counts from the all_reviews column.
 
